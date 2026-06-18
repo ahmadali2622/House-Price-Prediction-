@@ -97,4 +97,4 @@ jupyter notebook house_Price_Pred__2_.ipynb
 
 **Ahmad Ali**  
 BS Computer Science — Lahore Leads University  
-[LinkedIn](https://www.linkedin.com/in/ahmad-ali-117a8a264) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/ahmad-ali-117a8a264) | [GitHub](https://github.com/ahmadali2622)
